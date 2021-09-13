@@ -1,4 +1,4 @@
-### Olá, meu nome é Théo Kabir 👋
+### Olá, meu nome é Théo Kabir
 
 Me encotro atualmente cursando o último ano de ensino médio técnico em desenvolvimento de sistemas na ETEC da Zona Leste.
 Atualmente minhas principais habilidades estão focadas no desenvolvimento web, porém, tenho instensões de estudar muito sobre desenvolvimento desktop com compiladas tipo C++, e desenvolvimento mobile, mais especificamente, com dart e flutter
