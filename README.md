@@ -5,8 +5,6 @@ Atualmente minhas principais habilidades estão focadas no desenvolvimento web, 
 
 Tenho o conhecimento básico de Python, C++, C# e PHP, que, planejo escolher uma para me aperfeçoar na área de desenvolvimento desktop.
 
-## Status
-
 ![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theokabir&show_icons=true&theme=tokyonight)
 
 ## Principais tecnologias
